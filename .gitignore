@@ -1,2 +1,6 @@
 Icon?
 .DS_Store
+
+# Local-only exercises and solutions (keep folder placeholders)
+Week*/*
+!Week*/.gitkeep
